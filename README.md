@@ -1,6 +1,6 @@
 # Kafka Streams Data Processing Project
 
-This project demonstrates how to process and transform data using Kafka Streams in .NET. It provides a simple, minimal approach to implement real-time data streaming and processing within a Kafka ecosystem. The goal is to build a scalable, stateful, and fault-tolerant system capable of handling high-throughput data streams, processing events in real time.
+This project demonstrates how to process and transform data using Kafka Streams in .NET. It provides a simple, minimal approach to implement real-time data streaming and processing within a Kafka ecosystem + Streamiz.Kafka.Net in .NET . The goal is to build a scalable, stateful, and fault-tolerant system capable of handling high-throughput data streams, processing events in real time.
 
 ### Table of Contents
 
